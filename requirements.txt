@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pydantic
+pytest
+# add your LLM client and vector store libraries here
